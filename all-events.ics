@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CHARM//Invitations//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:charu-param-mehendi-2027@charm.local
+DTSTAMP:20260917T000000Z
+DTSTART:20270128T103000Z
+SUMMARY:Charu & Param — Mehendi
+DESCRIPTION:January 28 at 4:00 PM IST. Venue details to follow.
+END:VEVENT
+BEGIN:VEVENT
+UID:charu-param-wedding-2027@charm.local
+DTSTAMP:20260917T000000Z
+DTSTART:20270130T043000Z
+SUMMARY:Charu & Param — Wedding Ceremony
+DESCRIPTION:January 30 at 10:00 AM IST. Venue details to follow.
+END:VEVENT
+BEGIN:VEVENT
+UID:charu-param-reception-2027@charm.local
+DTSTAMP:20260917T000000Z
+DTSTART:20270130T133000Z
+SUMMARY:Charu & Param — Reception
+DESCRIPTION:January 30 at 7:00 PM IST. Venue details to follow.
+END:VEVENT
+END:VCALENDAR

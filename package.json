@@ -1,0 +1,14 @@
+{
+  "name": "charm-all-events",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Charu and Param \u2014 Mehendi, wedding ceremony, and reception",
+  "scripts": {
+    "dev": "python -m http.server 5174 --bind 127.0.0.1",
+    "start": "npm run dev",
+    "check": "node --check charm.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
